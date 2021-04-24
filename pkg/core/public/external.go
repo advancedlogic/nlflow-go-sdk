@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/advancedlogic/nlflow-go-sdk/core/private"
+	"github.com/advancedlogic/nlflow-go-sdk/pkg/core/private"
 )
 
 const (

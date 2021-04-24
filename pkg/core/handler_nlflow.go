@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	etlcache "github.com/advancedlogic/nlflow-go-sdk/cache_etl"
+	etlcache "github.com/advancedlogic/nlflow-go-sdk/pkg/cache_etl"
 	echo "github.com/labstack/echo/v4"
 )
 

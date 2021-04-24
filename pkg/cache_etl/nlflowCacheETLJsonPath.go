@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/advancedlogic/nlflow-go-sdk/cache"
+	"github.com/advancedlogic/nlflow-go-sdk/pkg/cache"
 	kazaam "gopkg.in/qntfy/kazaam.v3"
 )
 

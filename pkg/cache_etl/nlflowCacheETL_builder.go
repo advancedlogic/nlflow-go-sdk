@@ -1,7 +1,7 @@
 package etlcache
 
 import (
-	"github.com/advancedlogic/nlflow-go-sdk/cache"
+	"github.com/advancedlogic/nlflow-go-sdk/pkg/cache"
 )
 
 func NewNLFlowCacheETL(cacheType string, metadataMappingType string) NLFlowCacheETL {
